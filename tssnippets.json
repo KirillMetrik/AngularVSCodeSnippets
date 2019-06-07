@@ -13,5 +13,18 @@
             " ",
             "}"
         ]
+    },
+    "Rd_Module": {
+        "prefix": "rd-module",
+        "description": "Creates standard Angular2+ module stub",
+        "body": [
+            "import { NgModule } from '@angular/core';",
+            " ",
+            "@NgModule({",
+            "    declarations: [${1:Name}Component],",
+            "    entryComponents: [${1:Name}Component],",
+            "})",
+            "export class ${1:Name}Module { }"
+        ]
     }
 }
