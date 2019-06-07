@@ -2,7 +2,7 @@
     "name": "angular-snippets",
     "displayName": "Angular Snippets By Kirill Metrik",
     "description": "Angular and AngularJS snippets created by Kirill Metrik",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "KirillMetrik",
     "repository": {
         "type": "GitHub",
