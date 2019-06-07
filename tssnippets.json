@@ -1,0 +1,17 @@
+{
+    "Rd_Component": {
+        "prefix": "rd-component",
+        "description": "Creates standard Angular2+ component stub",
+        "body": [
+            "import { Component } from '@angular/core';",
+            " ",
+            "@Component({",
+            "    selector: 'rd-${1:name}',",
+            "    template: require('./${1:name}.component.html')",
+            "})",
+            "export class ${2:Name}Component {",
+            " ",
+            "}"
+        ]
+    }
+}

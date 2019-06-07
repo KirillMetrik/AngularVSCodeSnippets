@@ -1,0 +1,22 @@
+{
+    "name": "angular-snippets",
+    "displayName": "Angular Snippets By Kirill Metrik",
+    "description": "Angular and AngularJS snippets created by Kirill Metrik",
+    "version": "0.0.1",
+    "publisher": "KirillMetrik",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./tssnippets.json"
+            }
+        ]
+    }
+}

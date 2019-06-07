@@ -1,1 +1,2 @@
-AngularVSCodeSnippets
+# Angular Snippets For VS Code
+
