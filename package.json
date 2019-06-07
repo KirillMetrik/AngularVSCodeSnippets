@@ -4,7 +4,10 @@
     "description": "Angular and AngularJS snippets created by Kirill Metrik",
     "version": "0.0.1",
     "publisher": "KirillMetrik",
-    "repository": {},
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/KirillMetrik/AngularVSCodeSnippets"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
